@@ -1,16 +1,8 @@
 import { NgModule } from '@angular/core';
-import { DoStuffComponent } from './do-stuff.component';
-
-
 
 @NgModule({
-  declarations: [
-    DoStuffComponent
-  ],
-  imports: [
-  ],
-  exports: [
-    DoStuffComponent
-  ]
+  declarations: [],
+  imports: [],
+  exports: [],
 })
-export class DoStuffModule { }
+export class DoStuffModule {}
